@@ -31,7 +31,7 @@ The `pg_tde` code is in the [postgres](https://github.com/percona/postgres) repo
 
 ## Contributing
 
-We welcome all contributors. For how to contribute to documentation, read the [Contributing guide](https://github.com/percona/pgsm-docs/blob/main/CONTRIBUTING.md).
+We welcome all contributors. For how to contribute to documentation, read the [Contributing guide](https://github.com/percona/pg-tde-docs/blob/main/CONTRIBUTING.md).
  
 ## Licensing
 
